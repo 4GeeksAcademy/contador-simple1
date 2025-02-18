@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter-holder{
+
+    background-color: rgb(3, 72, 112);
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.contador{
+color: white;
+font-weight: bolder;
+font-size: 1.5rem;
+padding: 0.5rem;
+}
